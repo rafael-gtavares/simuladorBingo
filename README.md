@@ -7,7 +7,7 @@ Este projeto foi construído em colaboração com:
 * [Caio Honório](LINK_GITHUB_OU_LINKEDIN)
 * [Davi Honório](LINK_GITHUB_OU_LINKEDIN)
 * [Guilherme Duarte](LINK_GITHUB_OU_LINKEDIN)
-* **Rafael Tavares** (Eu)
+* Rafael Tavares (Eu)
 * [Victor Lessa](LINK_GITHUB_OU_LINKEDIN)
 
 ## 🛠️ Funcionalidades
