@@ -27,4 +27,4 @@ Este projeto foi construído em colaboração com:
 1. Certifique-se de ter o Python instalado.
 2. Execute o arquivo principal:
    ```bash
-   python nome_do_arquivo.py
+   python index.py
